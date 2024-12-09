@@ -1,7 +1,0 @@
-C:\Users\Owner\source\repos\MacDonald order\MacDonald order\bin\Debug\MacDonald order.exe.config
-C:\Users\Owner\source\repos\MacDonald order\MacDonald order\bin\Debug\MacDonald order.exe
-C:\Users\Owner\source\repos\MacDonald order\MacDonald order\bin\Debug\MacDonald order.pdb
-C:\Users\Owner\source\repos\MacDonald order\MacDonald order\obj\Debug\MacDonald order.csproj.AssemblyReference.cache
-C:\Users\Owner\source\repos\MacDonald order\MacDonald order\obj\Debug\MacDonald order.csproj.CoreCompileInputs.cache
-C:\Users\Owner\source\repos\MacDonald order\MacDonald order\obj\Debug\MacDonald order.exe
-C:\Users\Owner\source\repos\MacDonald order\MacDonald order\obj\Debug\MacDonald order.pdb
