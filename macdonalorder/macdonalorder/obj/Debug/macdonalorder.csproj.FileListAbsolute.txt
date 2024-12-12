@@ -1,0 +1,7 @@
+C:\Users\Owner\source\repos\macdonalorder\macdonalorder\bin\Debug\macdonalorder.exe.config
+C:\Users\Owner\source\repos\macdonalorder\macdonalorder\bin\Debug\macdonalorder.exe
+C:\Users\Owner\source\repos\macdonalorder\macdonalorder\bin\Debug\macdonalorder.pdb
+C:\Users\Owner\source\repos\macdonalorder\macdonalorder\obj\Debug\macdonalorder.csproj.AssemblyReference.cache
+C:\Users\Owner\source\repos\macdonalorder\macdonalorder\obj\Debug\macdonalorder.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\macdonalorder\macdonalorder\obj\Debug\macdonalorder.exe
+C:\Users\Owner\source\repos\macdonalorder\macdonalorder\obj\Debug\macdonalorder.pdb
